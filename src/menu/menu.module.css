@@ -1,0 +1,14 @@
+.menuBar {
+  padding: 3vh;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  background-color: #2FB1DE;
+  border-radius: 1vh;
+  flex-wrap: wrap;
+}
+
+.textBar {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}

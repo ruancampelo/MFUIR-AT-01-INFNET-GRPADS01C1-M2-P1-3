@@ -1,0 +1,15 @@
+.divtopic {
+  padding: 3vh;
+  margin: 1vh;
+  background-color:#afc7d9;
+  border-radius: 1vw;
+  flex-wrap: wrap;
+
+}
+.hotTopics {
+  background-color: #30a4fd;
+  border-radius: 1em;
+  padding: 1rem;
+  margin: 1rem;
+  flex-wrap: wrap;
+}
